@@ -30,6 +30,8 @@ public class PortfolioTester {
         Stock MicrosoftStock = new Stock("2","Microsoft",12);
         Stock AppleStock = new Stock("3","Apple",34);
 
+        Stock AppleStock1 = new Stock("3","Apple",34);
+
         // stock we are adding to the list not to the Portfolio //
         stocks.add(googleStock);
         stocks.add(MicrosoftStock);
